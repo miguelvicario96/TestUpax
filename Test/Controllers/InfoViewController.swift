@@ -28,7 +28,7 @@ public class InfoViewController: UIViewController, UINavigationControllerDelegat
     override public func viewDidLoad() {
         super.viewDidLoad()
         
-        tableViewConfig()
+        cellRegistration()
     }
     
     //MARK: - Methods

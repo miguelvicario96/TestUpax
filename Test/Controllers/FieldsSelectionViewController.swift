@@ -30,7 +30,7 @@ public class FieldsSelectionViewController: UIViewController {
     override public func viewDidLoad() {
         super.viewDidLoad()
         
-        tableViewConfig()
+        cellRegistration()
     }
     
     //MARK: - Methods
